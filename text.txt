@@ -1,0 +1,9 @@
+```
+getkey - Gives you a key.
+whitelist (userid) - Admin only, allows a user to get a key
+blacklist (userid) - Admin only, prevents a user from getting keys,
+addkey (key) - Admin Only, adds a key to the database
+removekey (key) - Admin only, removes a key from the database
+admin(userid) - Admin only, allows a user to whitelist and blacklist users
+unadmin(userid) - undoes admin command
+```
